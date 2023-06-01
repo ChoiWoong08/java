@@ -1,0 +1,21 @@
+package test;
+
+public class Ex01 {
+public static void main(String[] args) {
+	int a = 10;
+	int b = 5;
+	System.out.println(a + b); //더하기
+	System.out.println(a - b);//빼기
+	System.out.println(a / b);//나누기 *소수점은 출력되지 않음*
+	System.out.println(a * b);//곱하기
+//syso + ctrl + spaec
+	
+	
+//	주석은 실행할때 어떤 것을 쓰든 포함이 안 되는 것이다.
+	
+//	한 줄 주석 ctrl + / 
+	/*
+	범위 주석 ctrl + shift + /
+	*/
+}
+}
