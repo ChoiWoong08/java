@@ -1,0 +1,16 @@
+package test;
+
+public class Ex03 {
+public static void main(String[] args) {
+//	long -> int -> short -> byte 정수형
+	long a = 10l;
+	long a1 = 10L; //접두사L는 long이라고 알려줄 때 쓴다
+//	double -> float 소수형
+	float b = 5.5f; //접두사f는 float이라고 알려줄 때 쓴다
+//	char(문자) -> String(문자열)
+	String str = "abc";
+	char ch = 'a'; 
+//	boolean 논리형
+	boolean bo = true; //true or false
+}
+}
